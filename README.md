@@ -1,8 +1,8 @@
 # Ficha técnica
   
   * **Acer**
-     - product	Aspire F5-573G
-     - serial	NXGJTAL004718305FF9501
+     - produto:	Aspire F5-573G
+     <>- serial	NXGJTAL004718305FF9501
 
   * **Processador**
     - Modelo: Intel® Core™ i7-7500U
@@ -11,6 +11,7 @@
     
   * **Memória RAM**
     - Quantidade: 8GB
+    - Tipo: DDR4-2400
     
   * **Armazenamento**
     - Capacidade: 
