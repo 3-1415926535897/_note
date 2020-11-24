@@ -1,4 +1,10 @@
 # Ficha técnica
+  
+  * **Acer**
+     - product	Aspire F5-573G
+     - version	V1.27
+     - serial	NXGJTAL004718305FF9501
+
   * **Processador**
     - Modelo: Intel® Core™ i7-7500U
     - Velocidade: 2.7 GHz - 3.5 GHz com função Turbo Boost
