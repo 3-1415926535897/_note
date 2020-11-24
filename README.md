@@ -2,7 +2,6 @@
   
   * **Acer**
      - product	Aspire F5-573G
-     - version	V1.27
      - serial	NXGJTAL004718305FF9501
 
   * **Processador**
