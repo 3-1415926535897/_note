@@ -48,7 +48,7 @@
     - Tipo: Bateria Bivolt
     
   * **Sistema Operacional**
-    - Windows 10: Microsoft Windows 10 (10.0) Home Single Language 64-bit <!--(Build 18363)-->
+    - Microsoft Windows 10 (10.0) Home Single Language 64-bit <!--(Build 18363)-->
     
   * Dimensões (L x A x P): 25 x 3 x 38 cm
   * Peso: 2,30Kg
