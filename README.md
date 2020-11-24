@@ -2,7 +2,7 @@
   
   * **Acer**
      - produto:	Aspire F5-573G
-     <>- serial	NXGJTAL004718305FF9501
+     <!-- serial	NXGJTAL004718305FF9501-->
 
   * **Processador**
     - Modelo: Intel® Core™ i7-7500U
